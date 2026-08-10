@@ -77,66 +77,28 @@ This project follows a consistent decision-first approach:
 
 * 🔗 [Dashboard (Streamlit)](https://churn-d.streamlit.app/)
 
-\---
+  ---
 
 ## Screenshots
 
-```
-!\\\\\\\[Dashboard](assets/dashboard.png)
+![Dashboard](assets/dashboard.png)
 
+![Churn Drivers](assets/churn_drivers.png)
 
-
-!\\\\\\\[Churn Drivers](assets/churn\\\\\\\_drivers.png)
-
-\\\\---
+---
 
 ## How to Run Locally
 
 ```bash
-
-git clone https://github.com/AlwafiSaab/bank-churn-intelligence.git
-
-cd bank-churn-intelligence
-
+git clone https://github.com/AlwafiSaab/churn_dashboard.git
+cd churn_dashboard
 pip install -r requirements.txt
-
-streamlit run churn\\\\\\\_dashboard.py
-
-
-\\\\---
-
-## Project Structure
-
+streamlit run churn_dashboard.py
 ```
-
-bank-churn-intelligence/
-
-├── churn\_dashboard.py       # Streamlit dashboard
-
-├── assets/
-
-│   ├── dashboard.png
-
-│   └── churn\_drivers.png
-
-├── X\_test.pkl
-
-├── df\_with\_scores.pkl
-
-├── scaler.pkl
-
-├── xgb\_model.json
-
-├── requirements.txt
-
-
 
 ## Connect
 
-\* LinkedIn: \[linkedin.com/in/ahmad-alwafi-saab]
-\* GitHub: \[github.com/AlwafiSaab]
+- [LinkedIn](https://www.linkedin.com/in/ahmad-alwafi-saab/)
+- [GitHub](https://github.com/AlwafiSaab)
 
-
-
-Built by \*\*Ahmed Al-Wafi\*\* — Accelerating business intelligence through AI.
-
+Built by **Ahmed Al-Wafi** — Accelerating business intelligence through AI.
