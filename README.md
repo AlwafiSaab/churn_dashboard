@@ -25,6 +25,7 @@ Every part of this system is built around one decision a retention team has to m
 |**Decision**|Which customers should the retention team contact first?|
 |**Cost of inaction**|At a 0.70 risk threshold, 335 customers (16.8% of the customer base) are flagged high-risk — representing **$402,000** in balance-linked revenue at risk.|
 |**Recommended action**|Prioritize outreach to the highest-risk segment first (90%+ churn probability), and use the threshold slider to size the contact list to the team's actual outreach capacity.|
+|**Your data	Upload your own customer CSV using the built-in template. The system preprocesses, scores, and delivers results instantly — no code required.|
 
 \---
 
